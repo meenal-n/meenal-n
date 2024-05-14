@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meenal-n
-- 👀 I’m interested in frontend development, UI design, Ai dev.
+- 👀 I’m interested in Frontend dev, UI design, Ai dev.
 - 🌱 I’m currently learning C++ and backend
 - 📫 How to reach me on WA:+91 8971817775
 - 😄 Pronouns: She/Her
